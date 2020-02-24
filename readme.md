@@ -4,7 +4,7 @@ This is a cli package that automatically sets up a Node.js Zoom chatbot project 
 ## Installation
 
 ```js
- npm i @zoomus/chatbot-cli -g
+ npm i chatbot-cli -g
 ```
 
 

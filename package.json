@@ -1,9 +1,14 @@
 {
-  "name": "@zoomus/chatbot-cli",
+  "name": "chatbot-cli",
   "version": "0.1.0",
   "description": "create zoom bot quickly",
+  "homepage": "https://github.com/zoom/node.js-chatbot#readme",
   "repository": {
-    
+    "type": "git",
+    "url": "git+https://github.com/zoom/node.js-chatbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zoom/node.js-chatbot/issues"
   },
   "keywords": [
     "zoom",
